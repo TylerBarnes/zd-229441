@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "netlify-cli": "17.17.1"
+  },
+  "type": "module"
+}
